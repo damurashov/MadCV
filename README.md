@@ -50,8 +50,9 @@ Software
 Secondary
 
 *Various technologies I have worked with, or skills I have acquired, that are
-not "native" to me, or represent a substantial commercial value, but are
-relevant, and may be helpful in my work. Hobby projects, one-off tasks, etc.*
+not "native" to me, or necessarily represent a substantial commercial value,
+but are relevant, and may be helpful in my work. Hobby projects, one-off tasks,
+etc.*
 
 - Rust
 - OpenOCD
