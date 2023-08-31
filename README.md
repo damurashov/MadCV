@@ -26,7 +26,7 @@ Hardware
 
 - STM32
 - ESP32
-- Bare metal
+- Bare metal development
 - Oscilloscopes
 - Logic analyzers
 - Multimeters
@@ -46,13 +46,11 @@ Software
 - Digital protocols
 - Eclipse IDE
 - Qt Creator IDE
-- CI
-- Docker
 
 Secondary
 
-*Various technologies I have worked with, or skills I have acquired, that
-cannot be commercialized because they are not good enough yet, but are
+*Various technologies I have worked with, or skills I have acquired, that are
+not "native" to me, or represent a substantial commercial value, but are
 relevant, and may be helpful in my work. Hobby projects, one-off tasks, etc.*
 
 - Rust
@@ -65,3 +63,6 @@ relevant, and may be helpful in my work. Hobby projects, one-off tasks, etc.*
 - System programming
 - Embedded linux
 - Hardware development
+- Code generation tools
+- CI
+- Docker
