@@ -8,7 +8,7 @@ Embedded software developer with 3 years of experience in UAVs.
 
 # Job experience
 
-## Embedded software developer at [Geoscan](geoscan.aero) **(2020-02 :: Present)**
+## Embedded software developer at [Geoscan](geoscan.aero) (2020-02 - Present)
 
 General description
 
