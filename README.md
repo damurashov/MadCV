@@ -52,8 +52,8 @@ Software
 Secondary
 
 *Various technologies I have worked with, or skills I have acquired, that
-cannot be commercialized, but are relevant, and may be helpful in my work.
-Hobby projects, one-off tasks, etc.*
+cannot be commercialized because they are not good enough yet, but are
+relevant, and may be helpful in my work. Hobby projects, one-off tasks, etc.*
 
 - Rust
 - OpenOCD
