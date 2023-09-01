@@ -67,7 +67,7 @@ in my work.*
 - System programming
 - Embedded linux
 - Linux development (user-space, sockets)
-- Hardware development
+- Hardware development (schematics drawing, breadboard prototyping)
 - Code generation tools
 - CI
 - Docker
