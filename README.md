@@ -52,6 +52,8 @@ Software
 - IDEs: Eclipse IDE, Qt Creator IDE, VSCode
 - Linux
 - Shell scripting
+- ESP-IDF
+- CubeMX
 
 Other
 
