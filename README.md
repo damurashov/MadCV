@@ -30,6 +30,7 @@ Hardware
 - Bare metal development
 - Oscilloscopes
 - Logic analyzers
+- Low-level serial communication protocols (UART, SPI, I2C)
 - Multimeters
 - Lab DC power supply
 - Hardware debuggers: JLink, STLink
