@@ -35,8 +35,8 @@ Hardware
 
 Software
 
-- C++
-- C
+- C++11, C++14, STL
+- ANSI C, C99
 - ARM assembly
 - Python
 - RTOS
@@ -46,22 +46,26 @@ Software
 - Digital protocols
 - Eclipse IDE
 - Qt Creator IDE
+- Linux
 
 Secondary
 
-*Hobby projects, one-off tasks, etc. Various technologies I have worked with, or skills I have acquired, that are
-not "native" to me, or necessarily represent a substantial commercial value,
-but are relevant, and may be helpful in my work.*
+*Hobby projects, one-off tasks, etc. Various technologies I have worked with,
+or skills I have acquired, that are not "native" to me, or necessarily
+represent a substantial commercial value, but are relevant, and may be helpful
+in my work.*
 
 - Rust
+- C++17, C++20
 - OpenOCD
 - Soldering
-- Vision tracking algorithms
+- Vision-based tracking algorithms: KCF, MOSSE
 - Neural networks
 - Control algorithms
 - Yolo
 - System programming
 - Embedded linux
+- Linux: user-space, sockets
 - Hardware development
 - Code generation tools
 - CI
