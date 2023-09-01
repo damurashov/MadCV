@@ -68,6 +68,6 @@ in my work.*
 - Embedded linux
 - Linux development (user-space, sockets)
 - Hardware development (schematics drawing, breadboard prototyping)
-- Code generation tools
+- Code generation tools, parsers
 - CI
 - Docker
