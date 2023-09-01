@@ -14,11 +14,11 @@ General description
 
 - Working in a wide variety of projects, including the "crown jewel" named
   Geoscan Autopilot; both as a part of a development team, and solo (that
-  regards the small ones) ;
-- Developing device drivers ;
+  regards the small ones)
+- Developing device drivers
 - Developing, implementing, and maintaining various pieces of firmware,
-  primarily related to inter/intra vehicle communication;
-- Developing / maintaining firmware for auxiliary UAV modules,
+  primarily related to inter/intra vehicle communication
+- Developing / maintaining firmware for auxiliary UAV modules and service equipment
 
 # Experience, skills, and personal features
 
@@ -32,6 +32,7 @@ Hardware
 - Logic analyzers
 - Multimeters
 - Lab DC power supply
+- Hardware debuggers: JLink, STLink
 - Understanding digital schematics
 
 Software
@@ -47,9 +48,9 @@ Software
 - CMake
 - Make
 - Digital communication protocols
-- Eclipse IDE
-- Qt Creator IDE
+- IDEs: Eclipse IDE, Qt Creator IDE, VSCode
 - Linux
+- Shell scripting
 
 Other
 
