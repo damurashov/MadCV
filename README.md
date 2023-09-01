@@ -4,7 +4,7 @@ Embedded software developer with 3 years of experience in UAVs.
 
 - https://linkedin.com/in/damurashov/
 - damurashov AT yahoo DOT com
-- github.com/damurashov
+- https://github.com/damurashov
 
 # Job experience
 
