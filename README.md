@@ -20,7 +20,7 @@ General description
   primarily related to inter/intra vehicle communication
 - Developing / maintaining firmware for auxiliary UAV modules and service equipment
 
-# Experience, skills, and personal features
+# Experience, skills, and personal-professional features
 
 Hardware
 
