@@ -26,6 +26,7 @@ Hardware
 
 - STM32
 - ESP32
+- MCU peripherals
 - Bare metal development
 - Oscilloscopes
 - Logic analyzers
@@ -39,7 +40,7 @@ Software
 - ANSI C, C99
 - ARM assembly
 - Python
-- RTOS
+- RTOS (Nuttx, FreeRTOS)
 - gcc
 - CMake
 - Make
@@ -65,7 +66,7 @@ in my work.*
 - Yolo
 - System programming
 - Embedded linux
-- Linux: user-space, sockets
+- Linux development (user-space, sockets)
 - Hardware development
 - Code generation tools
 - CI
