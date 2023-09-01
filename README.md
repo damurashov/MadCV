@@ -20,7 +20,7 @@ General description
   primarily related to inter/intra vehicle communication;
 - Developing / maintaining firmware for auxiliary UAV modules,
 
-# Experience
+# Experience, skills, and personal features
 
 Hardware
 
@@ -41,13 +41,21 @@ Software
 - ARM assembly
 - Python
 - RTOS (Nuttx, FreeRTOS)
+- OOP
+- TCP/IP
 - gcc
 - CMake
 - Make
-- Digital protocols
+- Digital communication protocols
 - Eclipse IDE
 - Qt Creator IDE
 - Linux
+
+Other
+
+- Ability to maintain inherited code, delve into the internals of used libraries and frameworks, port and tweak those in order to get things done
+- Willingness to interact with adjacent areas of expertise, such as digital electronics, algorithms, learn about those in the process
+- English: fluent verbal communication, business correspondence
 
 Secondary
 
