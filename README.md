@@ -56,7 +56,6 @@ Software
 - CubeMX
 - IDEs: Eclipse IDE, Qt Creator IDE, VSCode
 - MAVLink
-- Wi-Fi
 
 Other
 
