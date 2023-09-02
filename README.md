@@ -44,16 +44,19 @@ Software
 - Python
 - RTOS (Nuttx, FreeRTOS)
 - OOP
-- TCP/IP
+- Networks
 - gcc
 - CMake
 - Make
 - Digital communication protocols
-- IDEs: Eclipse IDE, Qt Creator IDE, VSCode
 - Linux
 - Shell scripting
+- TCP/IP
 - ESP-IDF
 - CubeMX
+- IDEs: Eclipse IDE, Qt Creator IDE, VSCode
+- MAVLink
+- Wi-Fi
 
 Other
 
