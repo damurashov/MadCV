@@ -22,9 +22,9 @@ General description
 
 # Experience, skills, and work-relevant personal features
 
-Hardware
+## Hardware
 
-- STM32
+- STM32 (F0, F4, F7 series)
 - ESP32
 - MCU peripherals
 - Bare metal development
@@ -36,7 +36,7 @@ Hardware
 - Hardware debuggers: JLink, STLink
 - Understanding digital schematics
 
-Software
+## Software
 
 - C++11, C++14, STL
 - ANSI C, C99
@@ -44,26 +44,27 @@ Software
 - Python
 - RTOS (Nuttx, FreeRTOS)
 - OOP
+- Multithreading, synchronization primitives
 - Networks
 - gcc
 - CMake
 - Make
-- Digital communication protocols
 - Linux
 - Shell scripting
 - TCP/IP
 - ESP-IDF
 - CubeMX
 - IDEs: Eclipse IDE, Qt Creator IDE, VSCode
+- Digital communication protocols
 - MAVLink
 
-Other
+## Other
 
 - Ability to maintain inherited code, delve into the internals of used libraries and frameworks, port and tweak those in order to get things done
 - Willingness to interact with adjacent areas of expertise, such as digital electronics, algorithms, learn about those in the process
 - English: fluent verbal communication, business correspondence
 
-Secondary
+## Secondary
 
 *Hobby projects, one-off tasks, etc. Various technologies I have worked with,
 or skills I have acquired, that are not "native" to me, or necessarily
@@ -85,3 +86,4 @@ in my work.*
 - Code generation tools, parsers
 - CI
 - Docker
+- PX4 flight stack
