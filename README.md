@@ -60,9 +60,29 @@ General description
 
 ## Other
 
-- Ability to maintain inherited code, delve into the internals of used libraries and frameworks, port and tweak those in order to get things done
+- Ability to maintain inherited code, delve into the internals of libraries and frameworks, port and tweak those in order to get things done
 - Willingness to interact with adjacent areas of expertise, such as digital electronics, algorithms, learn about those in the process
 - English: fluent verbal communication, business correspondence
+- Digital protocols
+- Git
+
+## Less important
+
+Software-related, or desktop
+
+- Eclipse IDE
+- Qt Creator IDE
+- VSCode
+- Vim
+- Software debugging
+- Linux applications
+- [shell] scripting
+
+Workflow
+
+- Redmine
+- Gitlab
+- Docker
 
 ## Secondary
 
