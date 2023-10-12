@@ -22,7 +22,9 @@ General description
 
 # Experience, skills, and work-relevant personal features
 
-## Hardware
+## Most relevant
+
+Hardware
 
 - STM32 (F0, F4, F7 series)
 - ESP32
@@ -36,7 +38,7 @@ General description
 - Hardware debuggers: JLink, STLink
 - Understanding digital schematics
 
-## Software
+Software
 
 - C++11, C++14, STL
 - ANSI C, C99
@@ -49,7 +51,6 @@ General description
 - gcc
 - CMake
 - Make
-- Linux
 - Shell scripting
 - TCP/IP
 - ESP-IDF
@@ -57,13 +58,6 @@ General description
 - IDEs: Eclipse IDE, Qt Creator IDE, VSCode
 - Digital communication protocols
 - MAVLink
-
-## Other
-
-- Ability to maintain inherited code, delve into the internals of libraries and frameworks, port and tweak those in order to get things done
-- Willingness to interact with adjacent areas of expertise, such as digital electronics, algorithms, learn about those in the process
-- English: fluent verbal communication, business correspondence
-- Digital protocols
 - Git
 
 ## Less important
@@ -77,12 +71,20 @@ Software-related, or desktop
 - Software debugging
 - Linux applications
 - [shell] scripting
+- Linux user
 
 Workflow
 
 - Redmine
 - Gitlab
 - Docker
+
+## Other
+
+- Ability to maintain inherited code, delve into the internals of libraries and frameworks, port and tweak those in order to get things done
+- Willingness to interact with adjacent areas of expertise, such as digital electronics, algorithms, learn about those in the process
+- English: fluent verbal communication, business correspondence
+- Digital protocols
 
 ## Secondary
 
