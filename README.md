@@ -15,9 +15,9 @@ Leaving particular technologies aside, I've been doing the very job most
 embedded software developers do, that being developing, debugging, and
 maintaining firmware, bringing up MCUs, porting software, debugging hardware
 using testing equipment such as logic analyzers, multimeters, and scopes,
-soldering (that includes SMD). I also possess some skills in application
-development, which enables me to test some pieces of functionality (such as
-connectivity) right on the bench.
+soldering (that includes SMD), working with schematics. I also possess some
+skills in application development, which enables me to test some pieces of
+functionality (such as connectivity) right on the bench.
 
 I speak fluently, so conducting an interview in English would not be an issue.
 
