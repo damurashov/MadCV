@@ -6,7 +6,7 @@ Embedded software developer with over 3 years of experience in UAVs.
 - damurashov AT yahoo DOT com
 - https://github.com/damurashov
 
-Patronym (for official/legal stuff): Andreevich
+Patronym (for official / legal purposes): Andreevich
 
 # About
 
