@@ -15,7 +15,7 @@ Patronym (for official / legal purposes): Andreevich
 Embedded Software Developer, over 5 years of expertise.
 
 PRIMARY. Pure C, C++, ASM, Make, CMake, etc. Schematics, diagnostics equipment
-etc. STM32, ESP32. Bare metal, RTOS. Device drivers, communication.
+etc. STM32, ESP32. Bare metal, RTOS. Device drivers, communication, UAV.
 
 SECONDARY. Some UAV-specific math, Rust, Python, Octave, networks.
 
