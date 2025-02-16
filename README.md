@@ -10,6 +10,9 @@ Embedded Software Developer.
 
 Patronym (for official / legal purposes): Andreevich
 
+- Consulting - yes;
+- One-time contracts - yes;
+
 # About
 
 Embedded Software Developer, over 5 years of expertise.
