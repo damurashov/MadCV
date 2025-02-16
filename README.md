@@ -19,6 +19,8 @@ etc. STM32, ESP32. Bare metal, RTOS. Device drivers, communication.
 
 SECONDARY. Some UAV-specific math, Rust, Python, Octave, networks.
 
+Fluent eng. speaker.
+
 # Job experience
 
 Embedded software developer at [Geoscan](https://geoscan.aero) (2020-02 - Present)
