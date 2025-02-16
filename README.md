@@ -2,7 +2,7 @@
 
 Updated: 2025-02-16
 
-Embedded software developer with over 3 years of experience in UAVs.
+Embedded Software Developer.
 
 - https://linkedin.com/in/damurashov/
 - https://github.com/damurashov
