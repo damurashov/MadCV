@@ -18,21 +18,17 @@ Patronym (for official / legal purposes): Andreevich
 
 # About
 
-Embedded Software Developer, over 6 years of expertise.
-
-PRIMARY. Pure C, C++, ASM, Make, CMake, etc. Schematics, diagnostics equipment
-etc. STM32, ESP32. Bare metal, RTOS. Device drivers, communication, UAV.
-
-SECONDARY. Some UAV-specific math, Rust, Python, Octave, networks.
+Embedded Software Developer, over 6 years of expertise. Primarily, bare metal / RTOS
 
 Fluent eng. speaker.
 
 Hardware enthusiast.
 
-- Pure C, C++, ASM, Make, CMake, Python.
+- Pure C, C++, ASM, Make, CMake, Python. Some Rust (pet projects)
 - Reading schematics, diagnostics equipment, etc. 
 - Generic embedded SW development experience: Bare Metal, RTOS, peripherals (USB, Ethernet, CAN, UART, SPI, I2C...), RF;
-- Various systems. Radio transceivers (including LoRa), GNSS receivers, positioning sensors, cameras, connectivity devices.
+- Various systems. Radio transceivers (including LoRa), GNSS receivers, positioning sensors, cameras, connectivity devices, networking.
+- Code. Implementing bare metal solutions, extending RTOSes, developing device drivers, developing/implementing/extending protocols.
 
 # Job experience
 
