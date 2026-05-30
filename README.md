@@ -4,10 +4,10 @@ Updated: 2026-05
 
 Embedded Software Developer.
 
-- https://linkedin.com/in/damurashov/
-- https://github.com/damurashov
-- telegram: damurashov
-- whoisdm.com
+- [LinkedIn: damurashov](https://linkedin.com/in/damurashov/)
+- [Github: damurashov](https://github.com/damurashov)
+- [telegram: damurashov](t.me/damurashov)
+- [whoisdm.com](whoisdm.com)
 
 Patronym (for official / legal purposes): Andreevich
 
