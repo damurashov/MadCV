@@ -15,6 +15,7 @@ Patronym (for official / legal purposes): Andreevich
 - Consulting - yes;
 - One-time contracts - yes;
 - Relocation - yes, conditions apply;
+- Business trips - yes
 
 # About
 
