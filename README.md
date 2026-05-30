@@ -7,6 +7,7 @@ Embedded Software Developer.
 - https://linkedin.com/in/damurashov/
 - https://github.com/damurashov
 - telegram: damurashov
+- whoisdm.com
 
 Patronym (for official / legal purposes): Andreevich
 
