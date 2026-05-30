@@ -1,6 +1,6 @@
 # Dmitry Murashov
 
-Updated: 2025-02-16
+Updated: 2026-05
 
 Embedded Software Developer.
 
@@ -10,14 +10,14 @@ Embedded Software Developer.
 
 Patronym (for official / legal purposes): Andreevich
 
+- Full time - yes;
 - Consulting - yes;
 - One-time contracts - yes;
-- Full time - yes;
 - Relocation - yes, conditions apply;
 
 # About
 
-Embedded Software Developer, over 5 years of expertise.
+Embedded Software Developer, over 6 years of expertise.
 
 PRIMARY. Pure C, C++, ASM, Make, CMake, etc. Schematics, diagnostics equipment
 etc. STM32, ESP32. Bare metal, RTOS. Device drivers, communication, UAV.
@@ -26,6 +26,23 @@ SECONDARY. Some UAV-specific math, Rust, Python, Octave, networks.
 
 Fluent eng. speaker.
 
+Hardware enthusiast.
+
+- Pure C, C++, ASM, Make, CMake, Python.
+- Reading schematics, diagnostics equipment, etc. 
+- Generic embedded SW development experience: Bare Metal, RTOS, peripherals (USB, Ethernet, CAN, UART, SPI, I2C...), RF;
+- Various systems. Radio transceivers (including LoRa), GNSS receivers, positioning sensors, cameras, connectivity devices.
+
 # Job experience
 
-Embedded software developer at [Geoscan](https://geoscan.aero) (2020-02 - Present)
+## Embedded Software Developer at [Geoscan](https://geoscan.aero) (2020-02 - 2025-12)
+
+First working experience. Worked across many projects, both as a developer, and as a maintainer, from scratch, or improving upon some existing code. Way too many projects to list here, can tell more in conversation.
+
+Left the company as a senior embedded software developer. 
+
+## Embedded Software Engineer at [Octonus](octonus.com) (2025-12 - present)
+
+Improving upon existing software stack, architecting reusable software. 
+
+Developing internal test equipment software, and software for connectivity devices.
