@@ -29,7 +29,7 @@ Hardware enthusiast.
 - Reading schematics, diagnostics equipment, etc. 
 - Generic embedded SW development experience: Bare Metal, RTOS, peripherals (USB, Ethernet, CAN, UART, SPI, I2C...), RF;
 - Various systems. Radio transceivers (including LoRa), GNSS receivers, positioning sensors, cameras, connectivity devices, networking.
-- Code. Implementing bare metal solutions, extending RTOSes, developing device drivers, developing/implementing/extending protocols.
+- Implementing bare metal solutions, RTOS-based solutions, developing device drivers, developing/implementing/extending protocols.
 
 # Job experience
 
@@ -39,7 +39,7 @@ First working experience. Worked across many projects, both as a developer, and 
 
 Left the company as a senior embedded software developer. 
 
-## Embedded Software Engineer at [Octonus](octonus.com) (2025-12 - present)
+## Embedded Software Engineer at [Octonus](https://octonus.com) (2025-12 - present)
 
 Improving upon existing software stack, architecting reusable software. 
 
